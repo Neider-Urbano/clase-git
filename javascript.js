@@ -1,4 +1,4 @@
 console.log("hola");
-function despedida() {
-  console.log("Hasta pronto");
+function saludo() {
+  console.log("bienvenido");
 }
